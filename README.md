@@ -1,19 +1,24 @@
 ABOUT MOSAIC WINDOWS
 ====================
+Mosaic helps you arrange windows for PCs based on a grid system. It is portable and lightweight (less than 1 MB file, less than 4 MB memory and 0% background CPU usage).
+
+This program is in Beta and it is only tested on Windows 10.
+
+Why it is built?
+--------------
 This app is the result of my procrastination while working on another app.
 
 > *Benchley:*
 > *Anyone can do any amount of work, provided it isn’t the work he is supposed to be doing at that moment.*
 
-I'm using it on Windows 10 and haven't tested it on other versions. This program is in Alpha but it works.
+How to activate Mosaic?
+-----------------------
 
-How to trigger Mosaic
----------------------
 There are two modes to use Mosaic which you can select by right clicking the system tray icon (to the right of Task Bar).
 
 1. Edge Activation Mode
- 1 Grab a window title bar > move it to an edges/corner of the screen to pin one edge/corner > move the pointer to the opposite direction to draw the window
- 2 Grab a window title bar > move it to a desired location > press right mouse button to pin one edge/corner > move the pointer to draw the window
+ 1. Grab a window title bar > move it to an edges/corner of the screen to pin it > move the pointer to the opposite direction to draw the window
+ 2. Grab a window title bar > move it to a desired location > press right mouse button to pin > move the pointer to draw the window
 
 2. Always Active Mode
  - The anchor point alternates between the (side) edges of the screen
@@ -26,7 +31,7 @@ There are two modes to use Mosaic which you can select by right clicking the sys
  
 Grid Size
 ---------
- - Use mouse wheel to change the grid size while Mosaic is active. 
+ - Use the mouse wheel to change the grid size while Mosaic is active. 
  - Grid width and/or height will be adjusted depending on the edge by which Mosaic is triggered. Bear in mind that in "Always Active Mode" side edges are triggered automatically so you can't adjust the grid height independent from grid width.
 
 Overlay Window
