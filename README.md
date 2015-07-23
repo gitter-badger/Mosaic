@@ -4,14 +4,14 @@ Mosaic helps you arrange windows for PCs based on a grid system. It is portable 
 
 This program is in Beta and it is only tested on Windows 10.
 
-Why it is built?
+Why it is built
 --------------
 This app is the result of my procrastination while working on another app.
 
 > *Benchley:*
 > *Anyone can do any amount of work, provided it isn’t the work he is supposed to be doing at that moment.*
 
-How to activate Mosaic?
+How to activate Mosaic
 -----------------------
 
 There are two modes to use Mosaic which you can select by right clicking the system tray icon (to the right of Task Bar).
