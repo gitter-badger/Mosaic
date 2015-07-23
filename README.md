@@ -1,27 +1,33 @@
-![enter image description here](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic.png)
+Screenshots
+===========
+
+![Screenshot 1](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic-screenshot-1.png)
+
+![enter image description here](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic-screenshot-2.png)
+
+![enter image description here](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic-screenshot-3.png)
+
+![Grid based windows](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic.png)
+
 ABOUT MOSAIC WINDOWS
 ====================
-Mosaic helps you arrange windows for PCs based on a grid system. It is portable and lightweight (less than 1 MB file, less than 4 MB memory and 0% background CPU usage).
-
-This program is in Beta and it is only tested on Windows 10.
-
-Why it is built
---------------
-This app is the result of my procrastination while working on another app.
-
-> *Benchley:*
-> *Anyone can do any amount of work, provided it isn’t the work he is supposed to be doing at that moment.*
+Mosaic is a grid-based portable and lightweight Windows program to arrange windows!
+- less than 1 MB file size
+- Less than 4 MB memory usage
+- 0% passive CPU usage
+I believe that custom windows position and size is counter productive. Mosaic divides the screen into columns and rows. Current maximum limitation is 32x32, however, 8x2 would be more than enough in most cases.
+This program is currently in Beta and it is only tested on Windows 10 and only for a single screen usage. Please leave your feedback at [Mosaic issues page on Github](https://github.com/baazoo/Mosaic/issues).
 
 How to activate Mosaic
 -----------------------
 
 There are two modes to use Mosaic which you can select by right clicking the system tray icon (to the right of Task Bar).
 
-1. Edge Activation Mode
+1. Edge Activation Mode: for flexibility
  1. Grab a window title bar > move it to an edges/corner of the screen to pin it > move the pointer to the opposite direction to draw the window
  2. Grab a window title bar > move it to a desired location > press right mouse button to pin > move the pointer to draw the window
 
-2. Always Active Mode
+2. Always Active Mode: for speed
  - The anchor point alternates between the (side) edges of the screen
  - Hold any of the mod keys (Alt, Ctrl, Shift) before grabbing a window to prevent Mosaic activation
 
