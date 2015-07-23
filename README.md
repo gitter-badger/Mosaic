@@ -1,3 +1,4 @@
+![enter image description here](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic.png)
 ABOUT MOSAIC WINDOWS
 ====================
 Mosaic helps you arrange windows for PCs based on a grid system. It is portable and lightweight (less than 1 MB file, less than 4 MB memory and 0% background CPU usage).
