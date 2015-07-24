@@ -12,11 +12,13 @@ Screenshots
 ABOUT MOSAIC WINDOWS
 ====================
 Mosaic is a grid-based portable and lightweight Windows program to arrange windows!
-- less than 1 MB file size
+- Less than 1 MB file size
 - Less than 4 MB memory usage
 - 0% passive CPU usage
-I believe that custom windows position and size is counter productive. Mosaic divides the screen into columns and rows. Current maximum limitation is 32x32, however, 8x2 would be more than enough in most cases.
-This program is currently in Beta and it is only tested on Windows 10 and only for a single screen usage. Please leave your feedback at [Mosaic issues page on Github](https://github.com/baazoo/Mosaic/issues).
+
+I believe that too much freedom for windows' position and size  prevents efficient use of screen real-state. Mosaic divides the screen into columns and rows. Current maximum limitation is 32x32, however, 8x2 would be more than enough in most cases.
+This program is currently in Beta and it is only tested on Windows 10 and only for a single screen usage.
+Please leave your feedback at [Mosaic issues page on Github](https://github.com/baazoo/Mosaic/issues).
 
 How to activate Mosaic
 -----------------------
