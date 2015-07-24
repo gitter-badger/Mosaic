@@ -544,7 +544,9 @@ aside a.button {
 }
 a.button.github
 {
-    background: transparent url(../images/github-button.png) 0 0 no-repeat;
+    /* background: transparent url(../images/github-button.png) 0 0 no-repeat;*/
+    background-color: #3681D4;
+    border-radius: .25em;
 }
 a.button.download
 {
