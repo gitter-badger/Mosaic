@@ -1,6 +1,8 @@
 Screenshots
 ===========
 
+[![Join the chat at https://gitter.im/baazoo/Mosaic](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/baazoo/Mosaic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Screenshot 1](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic-screenshot-1.png)
 
 ![enter image description here](https://raw.githubusercontent.com/baazoo/Mosaic/gh-pages/mosaic/mosaic-screenshot-2.png)
